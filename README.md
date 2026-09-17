@@ -251,3 +251,9 @@ This project is developed as part of an academic **Software Development / SDLC p
 ## 📄 License
 
 This project is intended for **educational and academic purposes**.
+
+Contributor:
+Ananya Rajput
+Aastha Sheoran 
+Aashi Chaudhary
+Aeishhika tyagi
